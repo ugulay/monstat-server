@@ -1,0 +1,151 @@
+{
+  "version": "6.0",
+  "nxVersion": "20.1.4",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {
+      "backend": [
+        {
+          "file": "packages/backend/.eslintrc.js",
+          "hash": "13530456684259649318"
+        },
+        {
+          "file": "packages/backend/.prettierrc.js",
+          "hash": "16528545716883173737"
+        },
+        {
+          "file": "packages/backend/babel.config.js",
+          "hash": "6679690974004474311"
+        },
+        {
+          "file": "packages/backend/package.json",
+          "hash": "4394799469832658587",
+          "deps": [
+            "npm:@babel/cli",
+            "npm:@babel/core",
+            "npm:@babel/node",
+            "npm:@babel/preset-env",
+            "npm:@eslint/js",
+            "npm:cross-env",
+            "npm:eslint@6.2.2",
+            "npm:eslint-config-airbnb-base@15.0.0",
+            "npm:eslint-plugin-import@2.18.2",
+            "npm:globals@15.12.0",
+            "npm:nodemon",
+            "npm:prettier",
+            "npm:rimraf",
+            "npm:body-parser",
+            "npm:express",
+            "npm:socket.io",
+            "npm:socket.io-client"
+          ]
+        },
+        {
+          "file": "packages/backend/src/app.js",
+          "hash": "4352357502222687732"
+        },
+        {
+          "file": "packages/backend/src/index.js",
+          "hash": "6394442792785114090"
+        }
+      ],
+      "frontend": [
+        {
+          "file": "packages/frontend/.gitignore",
+          "hash": "13046175384202504187"
+        },
+        {
+          "file": "packages/frontend/README.md",
+          "hash": "17496383698429813037"
+        },
+        {
+          "file": "packages/frontend/eslint.config.js",
+          "hash": "10410409315448039573"
+        },
+        {
+          "file": "packages/frontend/index.html",
+          "hash": "7575831410758623410"
+        },
+        {
+          "file": "packages/frontend/package.json",
+          "hash": "2539357966609654401",
+          "deps": [
+            "npm:@eslint/js",
+            "npm:@types/react",
+            "npm:@types/react-dom",
+            "npm:@vitejs/plugin-react",
+            "npm:cross-env",
+            "npm:eslint",
+            "npm:eslint-plugin-react",
+            "npm:eslint-plugin-react-hooks",
+            "npm:eslint-plugin-react-refresh",
+            "npm:globals@15.12.0",
+            "npm:rimraf",
+            "npm:vite",
+            "npm:react",
+            "npm:react-dom"
+          ]
+        },
+        {
+          "file": "packages/frontend/public/vite.svg",
+          "hash": "16046085400642193116"
+        },
+        {
+          "file": "packages/frontend/src/App.css",
+          "hash": "3739391659270974612"
+        },
+        {
+          "file": "packages/frontend/src/App.jsx",
+          "hash": "5241081986927762011"
+        },
+        {
+          "file": "packages/frontend/src/assets/react.svg",
+          "hash": "16069471864800376455"
+        },
+        {
+          "file": "packages/frontend/src/index.css",
+          "hash": "957896817323665666"
+        },
+        {
+          "file": "packages/frontend/src/main.jsx",
+          "hash": "12234108228339956655"
+        },
+        {
+          "file": "packages/frontend/vite.config.js",
+          "hash": "7861139031490517562"
+        }
+      ]
+    },
+    "nonProjectFiles": [
+      {
+        "file": ".gitignore",
+        "hash": "11062008760696445003"
+      },
+      {
+        "file": ".vscode/settings.json",
+        "hash": "15113672247534006936"
+      },
+      {
+        "file": "lerna.json",
+        "hash": "2449439469137210855"
+      },
+      {
+        "file": "nx.json",
+        "hash": "2848704102314421568"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "8732641996642372863"
+      },
+      {
+        "file": "package.json",
+        "hash": "18355172653468154724"
+      },
+      {
+        "file": "yarn.lock",
+        "hash": "1443796590889967873"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+	"name": "root",
+	"private": true,
+	"scripts": {
+		"clear": "lerna run clear --stream",
+		"lint": "lerna run lint --stream",
+		"build": "lerna run build --stream",
+		"start": "lerna run start --stream",
+		"dev": "lerna run dev --stream"
+	},
+	"workspaces": [
+		"packages/*"
+	],
+	"devDependencies": {
+		"lerna": "^8.1.9"
+	}
+}

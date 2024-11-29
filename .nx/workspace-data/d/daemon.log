@@ -1,0 +1,193 @@
+[NX Daemon Server] - 2024-11-29T12:33:35.036Z - Started listening on: \\.\pipe\nx\C:\Users\UURG~1\AppData\Local\Temp\a8461f2f231e45724757\d.sock
+[NX Daemon Server] - 2024-11-29T12:33:35.044Z - [WATCHER]: Subscribed to changes within: c:\laragon\www\monit (native)
+[NX Daemon Server] - 2024-11-29T12:33:35.051Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-29T12:33:35.053Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-11-29T12:33:35.055Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-29T12:33:35.063Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-11-29T12:33:35.843Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-11-29T12:33:35.844Z - [REQUEST]: 
+[NX Daemon Server] - 2024-11-29T12:33:35.844Z - [REQUEST]: 
+[NX Daemon Server] - 2024-11-29T12:33:35.849Z - Time taken for 'loadNxPlugins' 777.8399000000001ms
+[NX Daemon Server] - 2024-11-29T12:33:36.303Z - Time taken for 'build-project-configs' 439.3638000000001ms
+[NX Daemon Server] - 2024-11-29T12:33:36.330Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2024-11-29T12:33:36.331Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-11-29T12:33:36.332Z - Time taken for 'total for creating and serializing project graph' 1267.4508ms
+[NX Daemon Server] - 2024-11-29T12:33:36.333Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-11-29T12:33:36.333Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1268. Response time: 2.
+[NX Daemon Server] - 2024-11-29T12:33:36.341Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2024-11-29T12:33:36.342Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2024-11-29T12:33:36.342Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-11-29T12:33:36.343Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-11-29T12:33:57.408Z - [WATCHER]: .gitignore was modified
+[NX Daemon Server] - 2024-11-29T12:33:57.409Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-11-29T12:33:57.410Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (sources)
+[NX Daemon Server] - 2024-11-29T12:33:57.410Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (outputs)
+[NX Daemon Server] - 2024-11-29T12:33:57.412Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
+[NX Daemon Server] - 2024-11-29T12:33:59.075Z - Started listening on: \\.\pipe\nx\C:\Users\UURG~1\AppData\Local\Temp\a8461f2f231e45724757\d.sock
+[NX Daemon Server] - 2024-11-29T12:33:59.084Z - [WATCHER]: Subscribed to changes within: c:\laragon\www\monit (native)
+[NX Daemon Server] - 2024-11-29T12:33:59.089Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-29T12:33:59.090Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-11-29T12:33:59.091Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-29T12:33:59.095Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-11-29T12:33:59.744Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-11-29T12:33:59.744Z - [REQUEST]: 
+[NX Daemon Server] - 2024-11-29T12:33:59.744Z - [REQUEST]: 
+[NX Daemon Server] - 2024-11-29T12:33:59.750Z - Time taken for 'loadNxPlugins' 647.5887ms
+[NX Daemon Server] - 2024-11-29T12:34:00.178Z - Time taken for 'build-project-configs' 417.14930000000004ms
+[NX Daemon Server] - 2024-11-29T12:34:00.211Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2024-11-29T12:34:00.213Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-11-29T12:34:00.214Z - Time taken for 'total for creating and serializing project graph' 1117.979ms
+[NX Daemon Server] - 2024-11-29T12:34:00.218Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-11-29T12:34:00.218Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1118. Response time: 5.
+[NX Daemon Server] - 2024-11-29T12:34:00.224Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2024-11-29T12:34:00.224Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2024-11-29T12:34:00.224Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-11-29T12:34:00.224Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-11-29T12:34:27.459Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-11-29T12:34:27.463Z - [WATCHER]: .gitignore was modified
+[NX Daemon Server] - 2024-11-29T12:34:27.464Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (sources)
+[NX Daemon Server] - 2024-11-29T12:34:27.464Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (outputs)
+[NX Daemon Server] - 2024-11-29T12:34:27.466Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
+[NX Daemon Server] - 2024-11-29T12:34:29.289Z - Started listening on: \\.\pipe\nx\C:\Users\UURG~1\AppData\Local\Temp\a8461f2f231e45724757\d.sock
+[NX Daemon Server] - 2024-11-29T12:34:29.300Z - [WATCHER]: Subscribed to changes within: c:\laragon\www\monit (native)
+[NX Daemon Server] - 2024-11-29T12:34:29.308Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-29T12:34:29.309Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-11-29T12:34:29.312Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-29T12:34:29.320Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-11-29T12:34:30.040Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-11-29T12:34:30.040Z - [REQUEST]: 
+[NX Daemon Server] - 2024-11-29T12:34:30.040Z - [REQUEST]: 
+[NX Daemon Server] - 2024-11-29T12:34:30.048Z - Time taken for 'loadNxPlugins' 716.5316ms
+[NX Daemon Server] - 2024-11-29T12:34:30.500Z - Time taken for 'build-project-configs' 432.1847ms
+[NX Daemon Server] - 2024-11-29T12:34:30.534Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2024-11-29T12:34:30.536Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-11-29T12:34:30.538Z - Time taken for 'total for creating and serializing project graph' 1215.6978ms
+[NX Daemon Server] - 2024-11-29T12:34:30.540Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-11-29T12:34:30.540Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1216. Response time: 4.
+[NX Daemon Server] - 2024-11-29T12:34:30.547Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2024-11-29T12:34:30.548Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2024-11-29T12:34:30.548Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-11-29T12:34:30.548Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-11-29T12:34:33.650Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-11-29T12:34:33.660Z - [WATCHER]: .gitignore was modified
+[NX Daemon Server] - 2024-11-29T12:34:33.662Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (sources)
+[NX Daemon Server] - 2024-11-29T12:34:33.664Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (outputs)
+[NX Daemon Server] - 2024-11-29T12:34:33.667Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
+[NX Daemon Server] - 2024-11-29T12:34:35.220Z - Started listening on: \\.\pipe\nx\C:\Users\UURG~1\AppData\Local\Temp\a8461f2f231e45724757\d.sock
+[NX Daemon Server] - 2024-11-29T12:34:35.227Z - [WATCHER]: Subscribed to changes within: c:\laragon\www\monit (native)
+[NX Daemon Server] - 2024-11-29T12:34:35.235Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-29T12:34:35.237Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-11-29T12:34:35.239Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-29T12:34:35.243Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-11-29T12:34:35.974Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-11-29T12:34:35.974Z - [REQUEST]: 
+[NX Daemon Server] - 2024-11-29T12:34:35.974Z - [REQUEST]: 
+[NX Daemon Server] - 2024-11-29T12:34:35.982Z - Time taken for 'loadNxPlugins' 729.0141999999998ms
+[NX Daemon Server] - 2024-11-29T12:34:36.506Z - Time taken for 'build-project-configs' 506.8076000000001ms
+[NX Daemon Server] - 2024-11-29T12:34:36.539Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2024-11-29T12:34:36.540Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-11-29T12:34:36.542Z - Time taken for 'total for creating and serializing project graph' 1297.5255ms
+[NX Daemon Server] - 2024-11-29T12:34:36.543Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-11-29T12:34:36.543Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1297. Response time: 3.
+[NX Daemon Server] - 2024-11-29T12:34:36.550Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2024-11-29T12:34:36.551Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2024-11-29T12:34:36.551Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-11-29T12:34:36.552Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-11-29T12:34:38.621Z - [WATCHER]: .gitignore was modified
+[NX Daemon Server] - 2024-11-29T12:34:38.621Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-11-29T12:34:38.623Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (sources)
+[NX Daemon Server] - 2024-11-29T12:34:38.623Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (outputs)
+[NX Daemon Server] - 2024-11-29T12:34:38.625Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
+[NX Daemon Server] - 2024-11-29T12:34:40.315Z - Started listening on: \\.\pipe\nx\C:\Users\UURG~1\AppData\Local\Temp\a8461f2f231e45724757\d.sock
+[NX Daemon Server] - 2024-11-29T12:34:40.325Z - [WATCHER]: Subscribed to changes within: c:\laragon\www\monit (native)
+[NX Daemon Server] - 2024-11-29T12:34:40.332Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-29T12:34:40.332Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-11-29T12:34:40.334Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-29T12:34:40.339Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-11-29T12:34:41.222Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-11-29T12:34:41.222Z - [REQUEST]: 
+[NX Daemon Server] - 2024-11-29T12:34:41.222Z - [REQUEST]: 
+[NX Daemon Server] - 2024-11-29T12:34:41.231Z - Time taken for 'loadNxPlugins' 879.0204ms
+[NX Daemon Server] - 2024-11-29T12:34:41.686Z - Time taken for 'build-project-configs' 439.34590000000003ms
+[NX Daemon Server] - 2024-11-29T12:34:41.720Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2024-11-29T12:34:41.723Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-11-29T12:34:41.725Z - Time taken for 'total for creating and serializing project graph' 1383.6534000000001ms
+[NX Daemon Server] - 2024-11-29T12:34:41.726Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-11-29T12:34:41.726Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1384. Response time: 3.
+[NX Daemon Server] - 2024-11-29T12:34:41.732Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2024-11-29T12:34:41.733Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2024-11-29T12:34:41.733Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-11-29T12:34:41.733Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-11-29T12:34:50.723Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-11-29T12:34:50.727Z - [WATCHER]: .gitignore was modified
+[NX Daemon Server] - 2024-11-29T12:34:50.728Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (sources)
+[NX Daemon Server] - 2024-11-29T12:34:50.729Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (outputs)
+[NX Daemon Server] - 2024-11-29T12:34:50.730Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
+[NX Daemon Server] - 2024-11-29T12:34:52.599Z - Started listening on: \\.\pipe\nx\C:\Users\UURG~1\AppData\Local\Temp\a8461f2f231e45724757\d.sock
+[NX Daemon Server] - 2024-11-29T12:34:52.610Z - [WATCHER]: Subscribed to changes within: c:\laragon\www\monit (native)
+[NX Daemon Server] - 2024-11-29T12:34:52.616Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-29T12:34:52.617Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-11-29T12:34:52.619Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-29T12:34:52.625Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-11-29T12:34:53.373Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-11-29T12:34:53.374Z - [REQUEST]: 
+[NX Daemon Server] - 2024-11-29T12:34:53.374Z - [REQUEST]: 
+[NX Daemon Server] - 2024-11-29T12:34:53.385Z - Time taken for 'loadNxPlugins' 745.4307ms
+[NX Daemon Server] - 2024-11-29T12:34:53.651Z - [WATCHER]: .gitignore was modified
+[NX Daemon Server] - 2024-11-29T12:34:53.652Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-11-29T12:34:53.654Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (sources)
+[NX Daemon Server] - 2024-11-29T12:34:53.654Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-11-29T12:34:53.661Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (outputs)
+[NX Daemon Server] - 2024-11-29T12:34:53.663Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
+[NX Daemon Server] - 2024-11-29T12:34:56.038Z - Started listening on: \\.\pipe\nx\C:\Users\UURG~1\AppData\Local\Temp\a8461f2f231e45724757\d.sock
+[NX Daemon Server] - 2024-11-29T12:34:56.054Z - [WATCHER]: Subscribed to changes within: c:\laragon\www\monit (native)
+[NX Daemon Server] - 2024-11-29T12:34:56.063Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-29T12:34:56.063Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-11-29T12:34:56.064Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-29T12:34:56.070Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-11-29T12:34:56.072Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-11-29T12:34:56.072Z - Handled GLOB. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-11-29T12:34:56.086Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-11-29T12:34:57.277Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-11-29T12:34:57.277Z - [REQUEST]: 
+[NX Daemon Server] - 2024-11-29T12:34:57.277Z - [REQUEST]: 
+[NX Daemon Server] - 2024-11-29T12:34:57.287Z - Time taken for 'loadNxPlugins' 1188.2035000000003ms
+[NX Daemon Server] - 2024-11-29T12:34:58.114Z - Time taken for 'build-project-configs' 796.7570000000001ms
+[NX Daemon Server] - 2024-11-29T12:34:58.172Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2024-11-29T12:34:58.179Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-11-29T12:34:58.181Z - Time taken for 'total for creating and serializing project graph' 2092.4503999999997ms
+[NX Daemon Server] - 2024-11-29T12:34:58.186Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-11-29T12:34:58.186Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2093. Response time: 7.
+[NX Daemon Server] - 2024-11-29T12:34:58.198Z - [REQUEST]: Responding to the client. handleNxWorkspaceFiles
+[NX Daemon Server] - 2024-11-29T12:34:58.199Z - Done responding to the client handleNxWorkspaceFiles
+[NX Daemon Server] - 2024-11-29T12:34:58.200Z - Handled GET_NX_WORKSPACE_FILES. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-11-29T12:34:58.231Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2024-11-29T12:34:58.237Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2024-11-29T12:34:58.237Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 0. Response time: 6.
+[NX Daemon Server] - 2024-11-29T12:34:58.238Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-11-29T12:35:58.400Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-11-29T12:35:58.406Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-11-29T12:35:58.509Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-11-29T12:35:58.509Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-11-29T12:35:58.509Z - [REQUEST]: 
+[NX Daemon Server] - 2024-11-29T12:35:58.513Z - Time taken for 'hash changed files from watcher' 0.8729000000021188ms
+[NX Daemon Server] - 2024-11-29T12:35:58.531Z - Time taken for 'build-project-configs' 16.888299999998708ms
+[NX Daemon Server] - 2024-11-29T12:35:58.558Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2024-11-29T12:35:58.559Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2024-11-29T12:35:58.560Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2024-11-29T12:35:58.560Z - Time taken for 'total execution time for createProjectGraph()' 19.23569999999745ms
+[NX Daemon Server] - 2024-11-29T12:36:04.383Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-11-29T12:36:04.384Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-11-29T12:36:04.590Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-11-29T12:36:04.591Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-11-29T12:36:04.591Z - [REQUEST]: 
+[NX Daemon Server] - 2024-11-29T12:36:04.594Z - Time taken for 'hash changed files from watcher' 3.3656000000046333ms
+[NX Daemon Server] - 2024-11-29T12:36:04.612Z - Time taken for 'build-project-configs' 15.531000000002678ms
+[NX Daemon Server] - 2024-11-29T12:36:04.640Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2024-11-29T12:36:04.641Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2024-11-29T12:36:04.641Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2024-11-29T12:36:04.641Z - Time taken for 'total execution time for createProjectGraph()' 20.594599999996717ms
+[NX Daemon Server] - 2024-11-29T12:36:13.245Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-11-29T12:36:13.256Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (sources)
+[NX Daemon Server] - 2024-11-29T12:36:13.299Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (outputs)
+[NX Daemon Server] - 2024-11-29T12:36:13.304Z - Server stopped because: "LOCK_FILES_CHANGED"

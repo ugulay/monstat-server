@@ -1,0 +1,38 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "../../dist/backend/index.js",
+  "scripts": {
+    "clear": "rimraf ../../dist/backend",
+    "build": "npm run clear && npx babel src -d ../../dist/backend",
+    "start": "cross-env NODE_ENV=production nodemon ../../dist/backend/index.js",
+    "dev": "cross-env NODE_ENV=development nodemon --exec babel-node src/index.js",
+    "lint": "npx eslint --fix *.js src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/node": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@eslint/js": "^9.15.0",
+    "cross-env": "^7.0.3",
+    "eslint": "6.2.2",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "2.18.2",
+    "globals": "^15.12.0",
+    "nodemon": "^3.1.7",
+    "prettier": "^3.4.1",
+    "rimraf": "^4"
+  }
+}
