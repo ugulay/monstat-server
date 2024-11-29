@@ -191,3 +191,14 @@
 [NX Daemon Server] - 2024-11-29T12:36:13.256Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (sources)
 [NX Daemon Server] - 2024-11-29T12:36:13.299Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (outputs)
 [NX Daemon Server] - 2024-11-29T12:36:13.304Z - Server stopped because: "LOCK_FILES_CHANGED"
+[NX Daemon Server] - 2024-11-29T13:56:47.244Z - Started listening on: \\.\pipe\nx\C:\Users\UURG~1\AppData\Local\Temp\a8461f2f231e45724757\d.sock
+[NX Daemon Server] - 2024-11-29T13:56:47.255Z - [WATCHER]: Subscribed to changes within: c:\laragon\www\monit (native)
+[NX Daemon Server] - 2024-11-29T13:56:47.262Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-29T13:56:47.263Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-11-29T13:56:47.265Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-29T13:56:47.271Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-11-29T13:56:47.273Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-11-29T13:56:47.273Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-11-29T13:56:47.274Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (sources)
+[NX Daemon Server] - 2024-11-29T13:56:47.275Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-11-29T13:56:47.276Z - [WATCHER]: Stopping the watcher for c:\laragon\www\monit (outputs)

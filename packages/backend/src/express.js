@@ -1,16 +1,17 @@
 import express from 'express';
 import bodyParser from 'body-parser';
 import path from 'path';
+import routes from './routes';
 
 // Check whether we are in production env
 const isProd = process.env.NODE_ENV === 'production';
-
-console.log(process.env);
+const port = isProd ? 3000 : 3001;
 
 const app = express();
 app.use(bodyParser.json());
 
-app.get('/api/foo', (req, res) => res.json({ foo: 'bar' }));
+// Routes
+app.use('/api', routes);
 
 // Compute the build path and index.html path
 if (isProd) {

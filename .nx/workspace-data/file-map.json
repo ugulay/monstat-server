@@ -43,11 +43,11 @@
         },
         {
           "file": "packages/backend/src/app.js",
-          "hash": "4352357502222687732"
+          "hash": "7939075083897151273"
         },
         {
           "file": "packages/backend/src/index.js",
-          "hash": "6394442792785114090"
+          "hash": "5198577992497566441"
         }
       ],
       "frontend": [
@@ -61,15 +61,15 @@
         },
         {
           "file": "packages/frontend/eslint.config.js",
-          "hash": "10410409315448039573"
+          "hash": "15269872434893003190"
         },
         {
           "file": "packages/frontend/index.html",
-          "hash": "7575831410758623410"
+          "hash": "16329201920159876622"
         },
         {
           "file": "packages/frontend/package.json",
-          "hash": "2539357966609654401",
+          "hash": "12681745992918815061",
           "deps": [
             "npm:@eslint/js",
             "npm:@types/react",
@@ -97,7 +97,7 @@
         },
         {
           "file": "packages/frontend/src/App.jsx",
-          "hash": "5241081986927762011"
+          "hash": "1491863734432469285"
         },
         {
           "file": "packages/frontend/src/assets/react.svg",
@@ -105,15 +105,15 @@
         },
         {
           "file": "packages/frontend/src/index.css",
-          "hash": "957896817323665666"
+          "hash": "1758162264944761411"
         },
         {
           "file": "packages/frontend/src/main.jsx",
-          "hash": "12234108228339956655"
+          "hash": "4336307544878274793"
         },
         {
           "file": "packages/frontend/vite.config.js",
-          "hash": "7861139031490517562"
+          "hash": "9222352743907482200"
         }
       ]
     },
@@ -128,19 +128,19 @@
       },
       {
         "file": "lerna.json",
-        "hash": "2449439469137210855"
+        "hash": "12517168485450659674"
       },
       {
         "file": "nx.json",
-        "hash": "2848704102314421568"
+        "hash": "16910339662434513749"
       },
       {
         "file": "package-lock.json",
-        "hash": "8732641996642372863"
+        "hash": "11510156026208547596"
       },
       {
         "file": "package.json",
-        "hash": "18355172653468154724"
+        "hash": "8445174592200467651"
       },
       {
         "file": "yarn.lock",
